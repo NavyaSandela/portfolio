@@ -1,2 +1,2 @@
 # portfolio
-My first GitHub Pages Repository
+My Portfolio
